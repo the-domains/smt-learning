@@ -1,0 +1,14 @@
+layout_spectrum: 0.7575999279506505
+typography_spectrum: 0.7741008710581809
+color:
+  brandStrength: 0.11654195166192949
+  lightness: 0.27361307363025844
+  saturation: 0.1364631641190499
+  rhythmicContrast: 0.43737358320504427
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+name: SMT Learning
